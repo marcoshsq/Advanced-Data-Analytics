@@ -8,7 +8,7 @@
 
 <h3>Sobre:</h3>
 
-Este repositório contém minhas anotações e estudos feitos durante o curso Fundamentos de Linguagem Python Para Análise de Dados e Data Science (Com ChatGPT) oferecido pela Data Science Academy.
+Work in progress...
 
 
 ##
